@@ -71,3 +71,13 @@
 *戰術:  
 ---
 左牆法則  
+
+
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/1.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/2.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/3.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/5.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/6.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/7.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/8.jpg)
+![image](https://github.com/BookCatCSIE/basics-of-IOT-based-reality-combat-midterm/blob/master/photos/9.jpg)
